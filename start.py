@@ -3,6 +3,3 @@ def myapp():
   print(x)
 myapp()
 
-
-
-print("thank you")
